@@ -1,0 +1,11 @@
+name: SimpleNick
+main: me.yuv.simplenick.Main
+version: 1.0
+api-version: 1.13
+commands:
+    nick:
+        description: to nick the user
+        usage: /<command>
+    unnick:
+        description: to unnick the user
+        usage: /<command>
